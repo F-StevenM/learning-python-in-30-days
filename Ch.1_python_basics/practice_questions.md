@@ -33,3 +33,6 @@ Question 7
 'spamspamspam'
 >>> 'spam' * 3
 spamspamspam
+
+Question 8
+'eggs' is a word, while 100 is an integer
