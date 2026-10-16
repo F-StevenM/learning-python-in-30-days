@@ -36,3 +36,6 @@ spamspamspam
 
 Question 8
 'eggs' is a word, while 100 is an integer
+
+Question 10
+99 is an interger an not a string. You need to type: `'I eat ' + str(99) + ' burritos.'`
