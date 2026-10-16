@@ -27,3 +27,9 @@ Question 6
 >>> bacon = 20
 >>> bacon + 1
 21
+
+Question 7
+>>> 'spam' + 'spamspam'
+'spamspamspam'
+>>> 'spam' * 3
+spamspamspam
