@@ -4,4 +4,10 @@ variable = True
 variable = False
 
 Question 2
-the three boolean operators are 'and', 'or', and 'not'
+The three boolean operators are 'and', 'or', and 'not'
+
+Question 3
+True == True    | True
+False == True   | False
+True == False   | False
+False == False  | False
