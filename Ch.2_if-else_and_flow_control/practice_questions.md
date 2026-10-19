@@ -40,3 +40,14 @@ Ex. `4 + 3 == 5 + 2` vs. `company_name = Verizon`
 
 Question 7
 A condition is basically an expression that states, "if this is true, do this, or else do this other thing."
+
+Question 8      (not sure)
+    spam = 0
+    if spam == 10:               # Block 1
+        print('eggs')
+        if spam > 5:             # Block 2
+            print('bacon')       # Block 2
+        else:                    # Block 3
+            print('ham')         # Block 3
+        print('spam')            # Block 1
+    print('Done')
