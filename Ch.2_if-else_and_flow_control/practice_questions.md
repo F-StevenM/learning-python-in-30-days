@@ -33,3 +33,7 @@ Question 5
 !=      | Not equal to                | 1 != 2
 <, >    | Less than, Greater than
 <=, >=  | Less than or equal to, Greater than or equal to
+
+Question 6
+Equal to (==) if for taking one value and giving it one equal value. Asignment operator (=) is taking one word and assigning it a variable.
+Ex. `4 + 3 == 5 + 2` vs. `company_name = Verizon`
