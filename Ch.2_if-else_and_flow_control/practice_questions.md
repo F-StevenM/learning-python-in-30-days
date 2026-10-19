@@ -27,3 +27,9 @@ True - (5 > 4) is True, (3 == 5) is False, only one side needs to be true
 False - The inside is True or False = True, and `not` flips it to False
 False - (True and True) is True, (True == False) is False, both sides need to be True
 True - (not False) is True, (not True) is False, only one side needs to be True
+
+Question 5
+==      | Equal to
+!=      | Not equal to                | 1 != 2
+<, >    | Less than, Greater than
+<=, >=  | Less than or equal to, Greater than or equal to
