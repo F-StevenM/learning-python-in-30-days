@@ -37,3 +37,6 @@ Question 5
 Question 6
 Equal to (==) if for taking one value and giving it one equal value. Asignment operator (=) is taking one word and assigning it a variable.
 Ex. `4 + 3 == 5 + 2` vs. `company_name = Verizon`
+
+Question 7
+A condition is basically an expression that states, "if this is true, do this, or else do this other thing."
