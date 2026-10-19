@@ -51,3 +51,15 @@ Question 8      (not sure)
             print('ham')         # Block 3
         print('spam')            # Block 1
     print('Done')
+
+Question 9
+Also in greetings.py
+Code:
+    spam = 1
+
+    if spam == 1:
+        print('Hello')
+        if spam == 2:
+            print('Howdy')
+    else:
+        print('Greetings!')
