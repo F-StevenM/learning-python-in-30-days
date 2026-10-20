@@ -2,7 +2,7 @@ while True:
     print('Who are you?')
     name = input('> ')
     if name != 'Joe':
-        continue
+        continue        # This causes the program to restart the loop 
     print('Hello, Joe. What is the password? (it is a fish)')
     password = input('> ')
     if password == 'swordfish':
