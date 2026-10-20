@@ -20,3 +20,7 @@ while loop:
     `while i < 11:`
         `print(str(i))`
         `i = i + 1`
+
+Question 5
+`import spam`
+`spam.bacon()`
