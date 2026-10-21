@@ -6,3 +6,5 @@ A: When the function is called.
 
 Question 3: What statement creates a function?
 A: `def`
+
+Question 4: What is the difference between a function and a function call?
