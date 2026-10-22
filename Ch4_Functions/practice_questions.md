@@ -8,3 +8,4 @@ Question 3: What statement creates a function?
 A: `def`
 
 Question 4: What is the difference between a function and a function call?
+A: A function is like a small program within a program. A function call is a function name followed by parentheses. 
